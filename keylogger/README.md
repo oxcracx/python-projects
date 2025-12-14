@@ -5,7 +5,7 @@ This repository contains a simple `keylogger` script in `keylogger/script.py`.
 To run:
 
 ```python3
-python3 keylogger/script.py --logfile ./keylog.txt
+python3 script.py -o ./keylog.txt
 ```
 
 Press `ESC` to stop the listener.
